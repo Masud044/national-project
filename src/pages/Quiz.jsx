@@ -11,7 +11,7 @@ export default function Quiz() {
         </h1>
         <p className="text-sm opacity-90">
         
-           📄 Detailed Quiz generated for you
+           📄 This is a Quiz on this related topic
           
         </p>
       </div>

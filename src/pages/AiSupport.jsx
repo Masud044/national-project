@@ -10,7 +10,7 @@ export default function AiSupport() {
         </h1>
         <p className="text-sm opacity-90">
         
-           📄 Detailed Ai-Support generated for you
+           📄 This is an AI CHATBOT for enhanced learning.
           
         </p>
       </div>

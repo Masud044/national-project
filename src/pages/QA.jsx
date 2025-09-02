@@ -6,11 +6,11 @@ export default function QA() {
     <div className="min-h-screen flex-col  flex items-center justify-center p-6">
        <div className="w-full max-w-4xl bg-gradient-to-r from-blue-600 to-blue-800 text-white rounded-2xl shadow-lg p-6 text-center">
         <h1 className="text-2xl font-bold mb-2">
-          ❓ QA
+          ❓ Q&A
         </h1>
         <p className="text-sm opacity-90">
         
-           📄 Detailed QA generated for you
+           📄 This is a discussion forum on this related topic!
           
         </p>
       </div>
